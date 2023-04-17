@@ -2,6 +2,8 @@
 
 Implementation of the Maze project.
 
+![GIF animation](https://github.com/rigastalin/12-01-Maze/blob/afecda9012d101e1585160de477b7343b816293a/maze.gif) 
+
 ## Contents
 
 1. [Chapter I](#chapter-i) \
